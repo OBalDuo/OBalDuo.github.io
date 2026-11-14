@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Liste des pages du site, pour les moteurs de recherche -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://obalduo.github.io/</loc>
+  </url>
+  <url>
+    <loc>https://obalduo.github.io/repertoire.html</loc>
+  </url>
+  <url>
+    <loc>https://obalduo.github.io/musiciens.html</loc>
+  </url>
+  <url>
+    <loc>https://obalduo.github.io/telenn-noz.html</loc>
+  </url>
+  <url>
+    <loc>https://obalduo.github.io/contact.html</loc>
+  </url>
+</urlset>

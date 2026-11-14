@@ -1,0 +1,5 @@
+# Tous les moteurs de recherche peuvent explorer tout le site
+User-agent: *
+Allow: /
+
+Sitemap: https://obalduo.github.io/sitemap.xml
